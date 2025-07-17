@@ -36,13 +36,13 @@ nav {
   grid-area: nav;
 }
 
-ul {
+.ul {
   display: flex;
   justify-content: center;
   list-style: none;
   padding: 0;
 }
-li {
+.li {
   margin: 0 15px;
 }
 
