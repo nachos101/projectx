@@ -36,6 +36,10 @@ nav {
   grid-area: nav;
 }
 
+.lol {
+  display: flex;
+  flex-direction: column;
+}
 .ul {
   display: flex;
   justify-content: center;
