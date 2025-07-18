@@ -1,6 +1,6 @@
 "USE STRICT"
 
-let lista = ["1989", "Red", "Evermore", "Fearless", "Folklore", "Tortured", "Speak Now", "Reputation", "TS", "Lover", "Midnights", "T2"];
+let lista = ["1989", "Red", "Evermore", "Fearless", "Folklore", "Tortured", "Speak-Now", "Reputation", "TS", "Lover", "Midnights", "T2"];
 
 document.addEventListener("DOMContentLoaded", function() {
   let ul = document.querySelector("#lista_album");
